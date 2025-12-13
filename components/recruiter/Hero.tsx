@@ -59,7 +59,7 @@ export default function Hero() {
           >
             {[
               { value: "3+", label: "Years Experience" },
-              { value: "20+", label: "Projects Completed" },
+              { value: "3+", label: "Projects Completed" },
               { value: "OSU", label: "Go Buckeyes!" },
             ].map((stat, i) => (
               <div key={i} className="text-center">
